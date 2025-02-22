@@ -38,7 +38,7 @@ A passionate web developer who loves to create modern and user-friendly websites
 
 ## 📬 Connect with me  
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/sheraz-riaz-55148a2b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yourhandle" target="_blank">
