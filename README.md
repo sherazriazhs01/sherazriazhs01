@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm <SherazRiaz> 👋</h1>
-<h3 align="center">Aspiring Web Developer | Passionate about Coding & Design</h3>
+<h3 align="center">
+A passionate web developer who loves to create modern and user-friendly websites. This profile showcases my work and projects. Feel free to explore!</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A409&center=true&vCenter=true&width=500&lines=Web+Developer;Front-end+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
@@ -19,7 +20,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode,figma" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -47,6 +48,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+Thank You for Visiting! 🙏
+
+If you find my projects helpful or interesting, feel free to star them ⭐ or fork them for your use. Your feedback is always appreciated!
 
 ---
 
