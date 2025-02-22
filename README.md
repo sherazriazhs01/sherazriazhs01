@@ -10,9 +10,9 @@ A passionate web developer who loves to create modern and user-friendly websites
 
 ## 🚀 About Me  
 - 🔭 Passionate about coding
-- 🌱 I’m currently learning Web Development in SMIT from experience teacher
+- 🌱 I’m a 20 years old currently learning Web Development at (SMIT)
 - 👯 I’m looking to collaborate on **open-source projects**  
-- 🎯 Become a top programmer
+- 🎯 Learn React.js ⚛️| Build 5+ Web Projects 🛠️ 
 - 📫 How to reach me: **[sheerazriaz018@gmail.com]**  
 - ⚡ Fun fact: I love **To create amazing and cachy websites & Apps!**  
 
@@ -44,7 +44,7 @@ A passionate web developer who loves to create modern and user-friendly websites
   <a href="https://twitter.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:sheerazriaz018@gmai.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
